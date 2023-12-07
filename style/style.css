@@ -40,16 +40,25 @@ header{
 .about{
     min-height: 200px;
     margin: 0 auto;
-    border: 2px dashed darkmagenta;
+    border: 2px dashed black;
 }
 
 
+.contact{
+    min-height: 150px;
+    margin: 0 auto;
+    border: 2px dashed salmon;
+}
 
+/* LOCATION */
+.location{
+    min-height: 150px;
+    margin: 0 auto;
+    border: 2px dashed rebeccapurple;
 
+}
 
-
-
-
+/* FOOTER */
 footer{
     height: 70px;
     border: 2px dashed yellow;
