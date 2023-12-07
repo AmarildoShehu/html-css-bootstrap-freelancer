@@ -1,5 +1,5 @@
 *{
-    color: white;
+    color: black;
 }
 
 *[class*="container"] {
@@ -30,13 +30,18 @@ header{
 }
 
 .star{
+    min-height: 250px;
     margin: 0 auto;
     border: 2px dashed blue;
 
 }
 
 
-
+.about{
+    min-height: 200px;
+    margin: 0 auto;
+    border: 2px dashed darkmagenta;
+}
 
 
 
