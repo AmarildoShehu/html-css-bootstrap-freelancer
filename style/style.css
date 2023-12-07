@@ -26,11 +26,7 @@ header{
 .jumbotron{
     min-height: 150px;
     background-color: #1ABC9C;
-    border: 1px dashed red;
-}
-
-div{
-    border: 2px solid;
+    border: 1px dashed yellow;
 }
 
 
@@ -46,6 +42,6 @@ div{
 
 footer{
     height: 70px;
-    border: 2px solid black;
+    border: 2px dashed yellow;
     background-color: #2C3E50;
 }
