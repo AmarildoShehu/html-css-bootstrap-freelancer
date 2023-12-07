@@ -2,14 +2,50 @@
     color: white;
 }
 
+*[class*="container"] {
+    border: 2px dashed green;
+}
+
+/* HEADER */
 header{
-    height: 60px;
+    min-height: 70px;
     border: 2px solid black;
     background-color: #2C3E50;
 }
 
+.navbar{
+    width: 100%;
+    border: 1px dashed red;
+}
+
+
+
+
+/* main */
+
+.jumbotron{
+    min-height: 150px;
+    background-color: #1ABC9C;
+    border: 1px dashed red;
+}
+
+div{
+    border: 2px solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 footer{
-    height: 30px;
+    height: 70px;
     border: 2px solid black;
     background-color: #2C3E50;
 }
