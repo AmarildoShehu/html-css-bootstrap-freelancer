@@ -1,0 +1,15 @@
+*{
+    color: white;
+}
+
+header{
+    height: 60px;
+    border: 2px solid black;
+    background-color: #2C3E50;
+}
+
+footer{
+    height: 30px;
+    border: 2px solid black;
+    background-color: #2C3E50;
+}
