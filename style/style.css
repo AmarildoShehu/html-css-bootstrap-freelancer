@@ -20,16 +20,29 @@ header{
     background-color: white;
 }
   
-.jumbotron .star{
+.star{
     color: white;
     font-size: 30px;
 }
   
+/* Portfolio */
+#portfolio{
+    padding-bottom: 40px;
+}
+#portfolio img{
+    border-radius: 5%;
+}
+#portfolio h1{
+    padding: 20px;    
+    color: rgb(44, 62, 80);
+}
+#portfolio .break-line{
+    background-color: rgb(44, 62, 80);
+}
 
-
-
-
-
+#portfolio .star{
+    color: rgb(44, 62, 80);
+}
 
 
 
