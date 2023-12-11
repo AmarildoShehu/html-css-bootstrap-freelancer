@@ -63,14 +63,11 @@ header{
 
 
 /* FOOTER */
-footer{
-    background-color: #3A546D;
-}
-
 #location{
     color: white;
     font-weight: bold;
     padding: 30px;
+    background-color: #3A546D
 }
 
 #location > div{
@@ -88,3 +85,9 @@ footer{
 }
 
 /* copyright */
+
+#copyright{
+    background-color: #2C3E50;
+    color: white;
+    padding: 30px;
+}
