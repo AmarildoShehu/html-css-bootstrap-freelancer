@@ -49,9 +49,42 @@ header{
     background-color: rgb(26, 188, 156);
     padding: 30px;
 }
+ /* CONTACT */
+ #contact h1{
+    color: rgb(44, 62, 80);
+ }
+#contact .star{
+    color: rgb(44, 62, 80);
+}
+#contact .break-line{
+    background-color: rgb(44, 62, 80);
+}
+
+
+
 /* FOOTER */
 footer{
-    height: 70px;
-    border: 2px dashed yellow;
-    background-color: #2C3E50;
+    background-color: #3A546D;
 }
+
+#location{
+    color: white;
+    font-weight: bold;
+    padding: 30px;
+}
+
+#location > div{
+    padding: 20px;
+}
+.circle{
+    width: 40px; 
+  height: 40px; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  border: 2px solid white;
+  margin: 5px;
+}
+
+/* copyright */
