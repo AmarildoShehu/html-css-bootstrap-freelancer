@@ -1,66 +1,37 @@
-/* *{
-    color: black;
-}
-
-*[class*="container"] {
-    border: 2px dashed green;
-} */
 
 /* HEADER */
-
 header{
     background-color: rgb(44, 62, 80);
 }
-/* header{
-    min-height: 70px;
-    border: 2px solid black;
-    background-color: #2C3E50;
-}
-
-.navbar{
-    width: 100%;
-    border: 1px dashed red;
-} */
-
-
-
 
 /* main */
-
 .jumbotron{
     min-height: 150px;
-    background-color: #1ABC9C;
-    border: 1px dashed yellow;
+    background-color: rgb(26, 188, 156);
 }
 
-.star{
-    min-height: 250px;
-    margin: 0 auto;
-    border: 2px dashed blue;
-
+.jumbotron img{
+    width: 200px;
 }
-
-
-.about{
-    min-height: 200px;
-    margin: 0 auto;
-    border: 2px dashed black;
+.break-line{
+    margin: 10px ;
+    width: 60px;
+    height: 3px;
+    background-color: white;
 }
-
-
-.contact{
-    min-height: 150px;
-    margin: 0 auto;
-    border: 2px dashed salmon;
+  
+.jumbotron .star{
+    color: white;
+    font-size: 30px;
 }
+  
 
-/* LOCATION */
-.location{
-    min-height: 150px;
-    margin: 0 auto;
-    border: 2px dashed rebeccapurple;
 
-}
+
+
+
+
+
 
 /* FOOTER */
 footer{
