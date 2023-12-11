@@ -44,8 +44,11 @@ header{
     color: rgb(44, 62, 80);
 }
 
-
-
+/* About */
+#about{
+    background-color: rgb(26, 188, 156);
+    padding: 30px;
+}
 /* FOOTER */
 footer{
     height: 70px;
