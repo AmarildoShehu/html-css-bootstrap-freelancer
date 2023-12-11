@@ -50,6 +50,9 @@ header{
     padding: 30px;
 }
  /* CONTACT */
+ #contact{
+    padding: 30px;
+ }
  #contact h1{
     color: rgb(44, 62, 80);
  }
@@ -61,6 +64,9 @@ header{
 }
 
 
+.contact .form-label::placeholder{
+    color: #2C3E50;
+}
 
 /* FOOTER */
 #location{
